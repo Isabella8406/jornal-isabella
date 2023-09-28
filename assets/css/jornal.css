@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('../img/old-newspaper-350376_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    filter: brightness(0.6);
+    
+
+}
+
+h1{
+    font-family:'Sedgwick Ave Display', cursive; 
+    font-size: 7rem;
+    color: rgba(255, 221, 31, 0.726);
+}
+
+h2{
+    font-family:'Sedgwick Ave Display', cursive; 
+    font-size: 3rem;
+    color: red;
+}
+
+
+.form-control{
+   opacity: 0.50;
+   border-radius: 10vh;
+}
+
+.navbar{
+    transition: all 0.15s;
+}
+
+.navbar-scrolled{
+    background-color: black;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+    opacity: 0.40;
+}
+
+
+#carouselId{
+    
+        width: 800px;
+    
+}
+    h3{
+        margin-top:200px;
+    }
+
+.LEGENDINHA{
+    margin-top: -50px;
+    color: rgb(255, 255, 255);
+    margin-left: 9px;
+    background-color: rgb(141, 139, 139);
+    position: relative;
+    width: 350px;
+    opacity: 0.40;
+    font-weight: bold;
+}
+
+
+
+.LEGENDINHA1{
+    margin-top: -50px;
+    color: black;
+    margin-left: -55px;
+    background-color: rgb(179, 174, 174);
+    position: relative;
+    width: 350px;
+    opacity: 0.70;
+    font-weight: bold;
+}
+
+
+.jubi{
+    height: 81%;
+    width: 100%;
+}
+
+
+.food{
+    width: 105%;
+    height: 135%;
+}
+
+
+.mikasa{
+    margin-bottom: -62%;
+}
+
+.RedesSociais{
+    font-size: 30px;
+}
+
+.ICONES{
+    size: 1000px;
+}
+
+h5{
+    color: white;
+}
+
+.preto{
+    color: white;
+}
